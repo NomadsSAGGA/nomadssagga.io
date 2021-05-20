@@ -1,0 +1,44 @@
+title: Nomads SAGGA
+email: webmaster@nomadssagga.org.uk
+description: >-
+  The homepage for The Nomads, a group within SAGGA (the Scout and Guid Graduate Association)
+baseurl: ""
+url: "https://nomadssagga.org.uk"
+github_username: "nomadssagga"
+repository: "nomadssagga/nomadssagga.org.uk"
+# Build settings
+markdown: kramdown
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+minimal_mistakes_skin: "dark"
+locale: en-GB
+permalink: /:title
+exclude: [vendor,_posts/0000-00-00-template.md]
+excerpt_separator: <!--more-->
+search: true
+timezone: Europe/London
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+#analytics:
+#  provider: "google-gtag"
+#  google:
+#    tracking_id: "G-7Q74BREYNN"
+#    anonymize_ip: true
+category_archive:
+  type: liquid
+  path: "/genres/"
+tag_archive:
+  type: liquid
+  path: "/tags/"
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      read_time: true
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/nomadssagga/nomadssagga.org.uk"
