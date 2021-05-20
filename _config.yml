@@ -8,8 +8,8 @@ github_username: "nomadssagga"
 repository: "nomadssagga/nomadssagga.org.uk"
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.22.0"
-minimal_mistakes_skin: "dark"
+remote_theme: "mmistakes/minimal-mistakes@4.23.0"
+minimal_mistakes_skin: "nomads"
 locale: en-GB
 permalink: /:title
 exclude: [vendor,_posts/0000-00-00-template.md]
