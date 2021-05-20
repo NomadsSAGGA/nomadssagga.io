@@ -68,5 +68,5 @@ gallery:
 ---
 
 Our 2018 skills weekend at 89th Reading Scout Hut.
-
+<!--more-->
 {% include gallery  %}

@@ -16,5 +16,5 @@ gallery:
 ---
 
 Our 2017 Christmas Party at 89th Reading Scout Hut.
-
+<!--more-->
 {% include gallery  %}
