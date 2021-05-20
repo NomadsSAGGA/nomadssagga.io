@@ -1,3 +1,9 @@
 main:
+  - title: "Calendar"
+    url: "/calendar"
+  - title: "Gallery"
+    url: "/gallery"
+  - title: "Facebook"
+    url: "https://www.facebook.com/groups/NomadsSAGGA"
   - title: "SAGGA"
     url: "https://sagga.org.uk/"

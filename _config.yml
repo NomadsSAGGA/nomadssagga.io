@@ -12,6 +12,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.23.0"
 minimal_mistakes_skin: "nomads"
 locale: en-GB
 permalink: /:title
+include: ["_pages"]
 exclude: [vendor,_posts/0000-00-00-template.md]
 excerpt_separator: <!--more-->
 search: true
@@ -26,7 +27,7 @@ plugins:
 #    anonymize_ip: true
 category_archive:
   type: liquid
-  path: "/genres/"
+  path: "/categories/"
 tag_archive:
   type: liquid
   path: "/tags/"
