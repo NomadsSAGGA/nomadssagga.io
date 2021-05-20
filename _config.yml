@@ -25,6 +25,9 @@ plugins:
 #  google:
 #    tracking_id: "G-7Q74BREYNN"
 #    anonymize_ip: true
+collections:
+  gallery:
+    output: true
 category_archive:
   type: liquid
   path: "/categories/"
