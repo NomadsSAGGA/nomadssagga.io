@@ -6,6 +6,8 @@ baseurl: ""
 url: "https://nomadssagga.org.uk"
 github_username: "nomadssagga"
 repository: "nomadssagga/nomadssagga.org.uk"
+logo: /assets/img/logo.png
+og_image: /assets/img/logo.png
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.23.0"
