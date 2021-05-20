@@ -12,7 +12,7 @@ gallery:
   - url: /assets/img/2018/201804_skills2.gif
     image_path: /assets/img/2018/201804_skills2.gif
     alt: "GIF of one nomad starting a campfire"
-    title: "The campe fire gets lit"
+    title: "The camp fire gets lit"
   - url: /assets/img/2018/201804_skills3.jpg
     image_path: /assets/img/2018/201804_skills3.jpg
     alt: "One Nomad splitting wood with a sledgehammer"
